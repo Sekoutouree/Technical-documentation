@@ -57,7 +57,13 @@ header {
     position: absolute;
     margin-left: 320px;
     padding: 20px;
-    margin-bottom: ;
+    margin-bottom: 110px;
+}
+
+section {
+    color:rgb(33, 27, 27);
+    margin: 15px;
+    font-size: 1em;
 }
 
 @media (min-width: 600px) {
